@@ -1,0 +1,4 @@
+cat heatmap-start.txt > heatmap.html
+python latlng.py location1.csv >> heatmap.html
+cat heatmap-end.txt >> heatmap.html
+open heatmap.html
