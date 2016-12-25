@@ -19,6 +19,8 @@ Use k-means cluster analysis to identify:
 
 _Here we define lucrative trips as those generating the highest fare for least amount time spent._
 
+Code:
+
 1. cluster_analysis.py --> location csv files; 2. cat heatmap-start.txt > heatmap.html 3. python latlng.py location1.csv >> heatmap.html 4. cat heatmap-end.txt >> heatmap.html 5. open heatmap.html
 
 ##Output
