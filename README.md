@@ -28,6 +28,5 @@ The interactive output can be found in googlemap repository.
 
 * Pick-up locations of Most lucrative trips.
 
-_Here we define lucrative trips as those generating the highest fare for least amount time spent._
 ![us_map 3](https://github.com/qianmx/Where-should-a-taxi-driver-pickup-passengers/blob/master/screenshot/lucrative_location1.png)
 
