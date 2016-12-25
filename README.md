@@ -3,7 +3,7 @@
 
 ##Introduction
 
-This project analyze taxi data in New York City. It uses cluster anaysis to identify the locations with most pick-ups, and the most lucrative trips. The results are presented using google mpas API. It can help taxi drivers to determine where they should wait for the passengers. 
+This project aims to analyze taxi data in New York City. It uses cluster anaysis to identify the locations with most pick-ups, and the locations generating most lucrative trips. The results are presented using google maps API. It can help taxi drivers to determine where they should wait for the passengers. 
 
 ##Data
 NYC cab data is available from the NYC Taxi & Limousine Commission’s Trip Record Data site: http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml. 
