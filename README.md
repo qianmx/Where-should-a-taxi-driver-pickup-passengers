@@ -1,5 +1,5 @@
 # Where-should-a-taxi-driver-pickup-passengers
-**Key Word: Cluster Analysis, Python, Google Maps API**
+**Key Word: Cluster Analysis(k-means), Python, Google Maps API**
 
 ##Introduction
 
