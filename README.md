@@ -8,9 +8,13 @@ This project analyze taxi data in New York City. It uses cluster anaysis to iden
 ##Data
 NYC cab data is available from the NYC Taxi & Limousine Commission’s Trip Record Data site: http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml. 
 
-The city is composed from 5 boroughs — Manhattan, and the four 'outer boroughs', Brooklyn, Queens, The Bronx and Staten Island. Named for the exterior paint colour, there are two types of taxis in New York City, yellow and green. The yellow-painted taxis (“yellow cabs”) are allowed to pick up willing customers from the streets in Manhattan but not from the outer boroughs. Green taxis, so-called “Borough cabs” are allowed to do the same in the outer boroughs but not in Manhattan.
+In the demonstration code, March 2016 'Green cabs' data downloaded from above link is used. 
 
-In the demonstration code, March 2016 'Green' data is used. 
+##Analysis
+
+* Pick-up locations with most pick-ups.
 
 
 
+* Pick-up locations of Most lucrative trips.
+_Here we define lucrative trips as those generating the highest fare for least amount time spent._
