@@ -30,3 +30,5 @@ The interactive output can be found in googlemap repository.
 
 ![us_map 3](https://github.com/qianmx/Where-should-a-taxi-driver-pickup-passengers/blob/master/screenshot/lucrative_location1.png)
 
+
+_Reference: https://github.com/parrt/msan692/blob/master/notes/sfpd.md_
