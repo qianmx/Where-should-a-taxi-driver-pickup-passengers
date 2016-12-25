@@ -12,11 +12,22 @@ In the demonstration code, March 2016 'Green cabs' data downloaded from above li
 
 ##Analysis
 
+Use k-means cluster analysis to identify: 
+
+* Pick-up locations with most pick-ups.
+* Pick-up locations of Most lucrative trips.
+
+_Here we define lucrative trips as those generating the highest fare for least amount time spent._
+
+##Output
+The interactive output can be found in googlemap repository.
+
 * Pick-up locations with most pick-ups.
 ![us_map 1](https://github.com/qianmx/Where-should-a-taxi-driver-pickup-passengers/blob/master/screenshot/most_pickup1.png)
 
 
 * Pick-up locations of Most lucrative trips.
-![us_map 3](https://github.com/qianmx/Where-should-a-taxi-driver-pickup-passengers/blob/master/screenshot/lucrative_location1.png)
 
 _Here we define lucrative trips as those generating the highest fare for least amount time spent._
+![us_map 3](https://github.com/qianmx/Where-should-a-taxi-driver-pickup-passengers/blob/master/screenshot/lucrative_location1.png)
+
