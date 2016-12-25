@@ -21,7 +21,6 @@ _Here we define lucrative trips as those generating the highest fare for least a
 
 ##Output
 The interactive output can be found in googlemap repository.
-Reference: https://github.com/parrt/msan692/blob/master/notes/sfpd.md
 
 * Pick-up locations with most pick-ups.
 ![us_map 1](https://github.com/qianmx/Where-should-a-taxi-driver-pickup-passengers/blob/master/screenshot/most_pickup1.png)
@@ -31,3 +30,5 @@ Reference: https://github.com/parrt/msan692/blob/master/notes/sfpd.md
 
 ![us_map 3](https://github.com/qianmx/Where-should-a-taxi-driver-pickup-passengers/blob/master/screenshot/lucrative_location1.png)
 
+
+_Reference: https://github.com/parrt/msan692/blob/master/notes/sfpd.md_
