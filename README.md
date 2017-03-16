@@ -1,7 +1,7 @@
 # Where-should-a-taxi-driver-pickup-passengers
 **Key Word: Cluster Analysis, Python, Google Maps API**
 
-##Introduction
+## Introduction
 
 This project aims to analyze taxi data in New York City. It uses cluster anaysis to identify the locations with most pick-ups, and the locations generating most lucrative trips. The results are presented using google maps API. It can help taxi drivers to determine where they should wait for the passengers. 
 
@@ -10,7 +10,7 @@ NYC cab data is available from the NYC Taxi & Limousine Commission’s Trip Reco
 
 In the demonstration code, March 2016 'Green cabs' data downloaded from above link is used. 
 
-##Analysis
+## Analysis
 
 Use k-means cluster analysis to identify: 
 
@@ -26,7 +26,7 @@ Code:
 * cat heatmap-end.txt >> heatmap.html
 * open heatmap.html
 
-##Output
+## Output
 The interactive output can be found in googlemap repository.
 
 * Pick-up locations with most pick-ups.
